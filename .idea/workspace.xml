@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaSchool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매서드/LocalVariableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매서드/Membercallpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매서드/PrimitiveParameterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/매서드/pb4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/배열수업부분/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/배열수업부분/one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Bookpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Buspb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/CarClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/DrinkOrderpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Lamppb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/PetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Playerpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Productpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Robotpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Seatpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/StudentScorepb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Studentpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Thermometerpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/TvTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/Workoutpb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/클래스수업부분/parkingCarpb.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IOopZVCRbvh4LoHn1AQHlQIEAg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/yoonsun/Desktop/비주얼스튜디오 폴더/ㅇㅅㅈㅂ/javaSchool/Javaclass/src/Main.java",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "애플리케이션.Bookpb.executor": "Run",
+    "애플리케이션.Buspb.executor": "Run",
+    "애플리케이션.CarClass.executor": "Run",
+    "애플리케이션.CardTest.executor": "Run",
+    "애플리케이션.DrinkOrderpb.executor": "Run",
+    "애플리케이션.HelloJava.executor": "Run",
+    "애플리케이션.Lamppb.executor": "Run",
+    "애플리케이션.LocalVariableMain.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Membercallpb.executor": "Run",
+    "애플리케이션.MyProgram.executor": "Run",
+    "애플리케이션.PetClass.executor": "Run",
+    "애플리케이션.Playerpb.executor": "Run",
+    "애플리케이션.PrimitiveParameterMain.executor": "Run",
+    "애플리케이션.Productpb.executor": "Run",
+    "애플리케이션.Robotpb.executor": "Debug",
+    "애플리케이션.Seatpb.executor": "Run",
+    "애플리케이션.StudentScorepb.executor": "Run",
+    "애플리케이션.Studentpb.executor": "Run",
+    "애플리케이션.Thermometerpb.executor": "Debug",
+    "애플리케이션.TvTest.executor": "Run",
+    "애플리케이션.Workoutpb.executor": "Run",
+    "애플리케이션.parkingCarpb.executor": "Run",
+    "애플리케이션.pb4.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/클래스수업부분" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.pb4">
+    <configuration name="LocalVariableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="매서드.LocalVariableMain" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="매서드.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Membercallpb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="매서드.Membercallpb" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="매서드.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitiveParameterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="매서드.PrimitiveParameterMain" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="매서드.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentScorepb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="클래스수업부분.StudentScorepb" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="클래스수업부분.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pb4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="매서드.pb4" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="매서드.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.pb4" />
+        <item itemvalue="애플리케이션.PrimitiveParameterMain" />
+        <item itemvalue="애플리케이션.LocalVariableMain" />
+        <item itemvalue="애플리케이션.Membercallpb" />
+        <item itemvalue="애플리케이션.StudentScorepb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="" />
+      <created>1787645160443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787645160443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
