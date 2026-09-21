@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="학교 숙제">
-      <change beforePath="$PROJECT_DIR$/src/자바/매서드/문제5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/문제5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,8 @@
     "애플리케이션.문제2.executor": "Run",
     "애플리케이션.문제3.executor": "Run",
     "애플리케이션.문제4.executor": "Run",
-    "애플리케이션.문제5.executor": "Run"
+    "애플리케이션.문제5.executor": "Run",
+    "애플리케이션.문제6.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -114,20 +116,7 @@
       <recent name="$PROJECT_DIR$/클래스수업부분" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.문제5">
-    <configuration name="문제1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제1" />
-      <module name="javaSchool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="자바.매서드.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.문제6">
     <configuration name="문제2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바.매서드.문제2" />
       <module name="javaSchool" />
@@ -180,13 +169,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="문제6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제6" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자바.매서드.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.문제6" />
         <item itemvalue="애플리케이션.문제5" />
         <item itemvalue="애플리케이션.문제4" />
         <item itemvalue="애플리케이션.문제3" />
         <item itemvalue="애플리케이션.문제2" />
-        <item itemvalue="애플리케이션.문제1" />
       </list>
     </recent_temporary>
   </component>
