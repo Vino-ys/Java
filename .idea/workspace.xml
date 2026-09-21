@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="학교 숙제">
-      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,9 +119,9 @@
       <recent name="$PROJECT_DIR$/클래스수업부분" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.문제9">
-    <configuration name="문제5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제5" />
+  <component name="RunManager" selected="애플리케이션.문제10">
+    <configuration name="문제10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제10" />
       <module name="javaSchool" />
       <extension name="coverage">
         <pattern>
@@ -186,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.문제10" />
         <item itemvalue="애플리케이션.문제9" />
         <item itemvalue="애플리케이션.문제8" />
         <item itemvalue="애플리케이션.문제7" />
         <item itemvalue="애플리케이션.문제6" />
-        <item itemvalue="애플리케이션.문제5" />
       </list>
     </recent_temporary>
   </component>
