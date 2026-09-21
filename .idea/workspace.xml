@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="학교 숙제">
-      <change afterPath="$PROJECT_DIR$/src/운영체제/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/운영체제/ㅇ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바/ㅇ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/BokkDatapb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/BokkDatapb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/CircleCalculatorpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/CircleCalculatorpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/LocalVariableMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/LocalVariableMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/Membercallpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/Membercallpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/PrimitiveParameterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/PrimitiveParameterMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/pb4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/매서드/pb4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/매서드/rpg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/배열수업부분/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/배열수업부분/HelloJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/배열수업부분/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/배열수업부분/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/배열수업부분/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/배열수업부분/one.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/오버라이딩/Hierarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/오버라이딩/Hierarchy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/오버라이딩/문제1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/오버라이딩/문제1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/오버라이딩/상속알아보기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/오버라이딩/상속알아보기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Bookpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Bookpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Buspb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Buspb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/CarClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/CarClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/CardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/DrinkOrderpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/DrinkOrderpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Lamppb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Lamppb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/PetClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/PetClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Playerpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Playerpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Productpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Productpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Robotpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Robotpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Seatpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Seatpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/StudentScorepb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/StudentScorepb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Studentpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Studentpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Thermometerpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Thermometerpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/TvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/TvTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/Workoutpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/Workoutpb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/클래스수업부분/parkingCarpb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/클래스수업부분/parkingCarpb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +101,8 @@
     "애플리케이션.example.executor": "Run",
     "애플리케이션.parkingCarpb.executor": "Run",
     "애플리케이션.pb4.executor": "Run",
-    "애플리케이션.rpg.executor": "Run"
+    "애플리케이션.rpg.executor": "Run",
+    "애플리케이션.문제1.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -142,9 +111,9 @@
       <recent name="$PROJECT_DIR$/클래스수업부분" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.example">
-    <configuration name="BokkDatapb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바.매서드.BokkDatapb" />
+  <component name="RunManager" selected="애플리케이션.문제1">
+    <configuration name="문제1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제1" />
       <module name="javaSchool" />
       <extension name="coverage">
         <pattern>
@@ -210,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.문제1" />
         <item itemvalue="애플리케이션.example" />
         <item itemvalue="애플리케이션.Hierarchy" />
         <item itemvalue="애플리케이션.rpg" />
         <item itemvalue="애플리케이션.CircleCalculatorpb" />
-        <item itemvalue="애플리케이션.BokkDatapb" />
       </list>
     </recent_temporary>
   </component>
