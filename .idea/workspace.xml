@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="학교 숙제">
-      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바/오버라이딩/문제1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바/오버라이딩/문제1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,7 @@
       <recent name="$PROJECT_DIR$/클래스수업부분" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.문제1">
+  <component name="RunManager" selected="애플리케이션.문제2">
     <configuration name="문제1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바.매서드.문제1" />
       <module name="javaSchool" />
@@ -125,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleCalculatorpb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바.매서드.CircleCalculatorpb" />
+    <configuration name="문제2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제2" />
       <module name="javaSchool" />
       <extension name="coverage">
         <pattern>
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.문제2" />
         <item itemvalue="애플리케이션.문제1" />
         <item itemvalue="애플리케이션.example" />
         <item itemvalue="애플리케이션.Hierarchy" />
         <item itemvalue="애플리케이션.rpg" />
-        <item itemvalue="애플리케이션.CircleCalculatorpb" />
       </list>
     </recent_temporary>
   </component>
