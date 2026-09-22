@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="학교 숙제">
-      <change afterPath="$PROJECT_DIR$/src/자바/매서드/문제10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c36bc0ea-a4ae-4ecf-865e-86477663f4e1" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Vino-ys"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vino-ys&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Vino-ys/Java.git",
-    "accountId": "4d59b198-7181-4a50-aa4f-cabfd662c846"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vino-ys/Java.git&quot;,
+    &quot;accountId&quot;: &quot;4d59b198-7181-4a50-aa4f-cabfd662c846&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -47,94 +44,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/yoonsun/Desktop/비주얼스튜디오 폴더/ㅇㅅㅈㅂ/javaSchool/Javaclass/src/Main.java",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "애플리케이션.BokkDatapb.executor": "Run",
-    "애플리케이션.Bookpb.executor": "Run",
-    "애플리케이션.Buspb.executor": "Run",
-    "애플리케이션.CarClass.executor": "Run",
-    "애플리케이션.CardTest.executor": "Run",
-    "애플리케이션.CircleCalculatorpb.executor": "Run",
-    "애플리케이션.DrinkOrderpb.executor": "Run",
-    "애플리케이션.HelloJava.executor": "Run",
-    "애플리케이션.Hierarchy.executor": "Run",
-    "애플리케이션.Lamppb.executor": "Run",
-    "애플리케이션.LocalVariableMain.executor": "Run",
-    "애플리케이션.Main.executor": "Run",
-    "애플리케이션.Membercallpb.executor": "Run",
-    "애플리케이션.MyProgram.executor": "Run",
-    "애플리케이션.PetClass.executor": "Run",
-    "애플리케이션.Playerpb.executor": "Run",
-    "애플리케이션.PrimitiveParameterMain.executor": "Run",
-    "애플리케이션.Productpb.executor": "Run",
-    "애플리케이션.Robotpb.executor": "Debug",
-    "애플리케이션.Seatpb.executor": "Run",
-    "애플리케이션.StudentScorepb.executor": "Run",
-    "애플리케이션.Studentpb.executor": "Run",
-    "애플리케이션.Thermometerpb.executor": "Debug",
-    "애플리케이션.TvTest.executor": "Run",
-    "애플리케이션.Workoutpb.executor": "Run",
-    "애플리케이션.example.executor": "Run",
-    "애플리케이션.parkingCarpb.executor": "Run",
-    "애플리케이션.pb4.executor": "Run",
-    "애플리케이션.rpg.executor": "Run",
-    "애플리케이션.문제1.executor": "Run",
-    "애플리케이션.문제2.executor": "Run",
-    "애플리케이션.문제3.executor": "Run",
-    "애플리케이션.문제4.executor": "Run",
-    "애플리케이션.문제5.executor": "Run",
-    "애플리케이션.문제6.executor": "Run",
-    "애플리케이션.문제7.executor": "Run",
-    "애플리케이션.문제8.executor": "Run",
-    "애플리케이션.문제9.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yoonsun/Desktop/비주얼스튜디오 폴더/ㅇㅅㅈㅂ/javaSchool/Javaclass/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;애플리케이션.BokkDatapb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Bookpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Buspb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CarClass.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CardTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CircleCalculatorpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DrinkOrderpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.HelloJava.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Hierarchy.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Lamppb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.LocalVariableMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Membercallpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MyProgram.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PetClass.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Playerpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PrimitiveParameterMain.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Productpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Robotpb.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.Seatpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StudentScorepb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Studentpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Thermometerpb.executor&quot;: &quot;Debug&quot;,
+    &quot;애플리케이션.TvTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Workoutpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.example.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.parkingCarpb.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.pb4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.rpg.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제1.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제10.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제4.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제5.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제6.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제7.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제8.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.문제9.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/클래스수업부분" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.문제10">
+  <component name="RunManager" selected="애플리케이션.animalSound">
     <configuration name="문제10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바.매서드.문제10" />
-      <module name="javaSchool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="자바.매서드.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문제6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바.매서드.문제6" />
       <module name="javaSchool" />
       <extension name="coverage">
         <pattern>
@@ -185,13 +170,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="animalSound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바.생성자.animalSound" />
+      <module name="javaSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자바.생성자.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.animalSound" />
         <item itemvalue="애플리케이션.문제10" />
         <item itemvalue="애플리케이션.문제9" />
         <item itemvalue="애플리케이션.문제8" />
         <item itemvalue="애플리케이션.문제7" />
-        <item itemvalue="애플리케이션.문제6" />
       </list>
     </recent_temporary>
   </component>
